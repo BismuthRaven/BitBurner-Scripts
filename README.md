@@ -15,3 +15,4 @@ This project automates various Bitburner infiltration challenges by simulating k
    npm install
 4. Then start the app:
    npm start
+5. **Important:** Copy the `infil_client.js` file into your Bitburner scripts directory. Then run it from within Bitburner to begin automation.
