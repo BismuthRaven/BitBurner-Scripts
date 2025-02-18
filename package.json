@@ -1,0 +1,16 @@
+{
+  "name": "InfilServer",
+  "version": "1.0.0",
+  "description": "Infiltration server using Express and robotjs",
+  "main": "infil_server.js",
+  "scripts": {
+    "start": "node infil_server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "robotjs": "^0.6.0"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
